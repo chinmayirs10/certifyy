@@ -35,4 +35,4 @@
 - **v2 (current):** rebuilt for production with **Python + React/TypeScript + Firebase**, and grown into a live platform used at real events
 
 ---
-📫 *Interested in using Certifyy for your event, or in a demo? Visit [certifyy.in](https://www.certifyy.in).*
+📫 *Interested in using Certifyy for your event? Visit [certifyy.in](https://www.certifyy.in).*
